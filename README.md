@@ -33,7 +33,7 @@ ecommerce-analysis/
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/Dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 ---
 
